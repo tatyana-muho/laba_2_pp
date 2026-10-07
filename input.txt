@@ -1,0 +1,2 @@
+12.5 text 14-30 more 100.0 data! Some long sentence here? End.
+., !?-
